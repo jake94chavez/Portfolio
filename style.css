@@ -23,8 +23,14 @@ h1 {
 	margin: 5 auto;
 }
 
-p {
-	width: 60%;
+h2.aboutme {
+	margin-left: 10%;
+}
+
+p.aboutme {
+	width: 50%;
+	float: left;
+	margin-left: 10%;
 }
 
 nav {
@@ -36,6 +42,19 @@ nav {
 	word-spacing: 15px;
 }
 
+#lowrule {
+	clear: both;
+}
+
 #aboutnav {
 	word-spacing: 0px;
+}
+
+img {
+	display: inline-block;
+	width: 200px;
+	height: auto;
+	margin-left: 15%;
+	margin-bottom: 40px;
+	margin-top: -15px;
 }
