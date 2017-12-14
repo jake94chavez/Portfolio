@@ -1,0 +1,41 @@
+a:link, a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: red;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: inset;
+    border-width: 1px;
+}
+
+h1 {
+	display: block;
+	text-align: center;
+	margin: 5 auto;
+}
+
+p {
+	width: 60%;
+}
+
+nav {
+	text-align: center;
+	word-spacing: 15px;
+}
+
+.lownav {
+	word-spacing: 15px;
+}
+
+#aboutnav {
+	word-spacing: 0px;
+}
